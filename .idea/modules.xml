@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mumu-hessian.iml" filepath="$PROJECT_DIR$/mumu-hessian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-hessian-api/mumu-hessian-api.iml" filepath="$PROJECT_DIR$/mumu-hessian-api/mumu-hessian-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-hessian-client/mumu-hessian-client.iml" filepath="$PROJECT_DIR$/mumu-hessian-client/mumu-hessian-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mumu-hessian-server/mumu-hessian-server.iml" filepath="$PROJECT_DIR$/mumu-hessian-server/mumu-hessian-server.iml" />
+    </modules>
+  </component>
+</project>
